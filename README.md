@@ -3,3 +3,4 @@ Deduplication of record linkage matching using biographical data and phonetics e
 
 - Arabic Soundex encoding using the ArTransliteration library.  
 - Data clean up and soundex and metaphone phonetics encoding on Spanish language characters
+- Papers on Naive Bayes methodology application to identify duplicates
